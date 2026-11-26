@@ -20,11 +20,7 @@
   <!-- Bubble 2 (Multi-line) -->
   <rect class="bubble" x="0" y="53" width="435" height="58" rx="12" />
   <text class="text" x="16" y="77">Technical Lead &amp; Open Source Contributor</text>
-  <text class="text" x="16" y="98">Building tools with Power Platform, AI and Web Technologies</text>
-
-  <!-- Bubble 3 -->
-  <rect class="bubble" x="0" y="121" width="335" height="38" rx="12" />
-  <text class="text" x="16" y="145">Always down to collaborate on cool projects</text>
+  <text class="text" x="16" y="98">Building AI Solutions with Microsoft Power Platform, Azure AI and RPA solutions with UiPath Studio </text>
 
   <!-- Bubble 4 (With clickable links) -->
   <rect class="bubble" x="0" y="169" width="510" height="38" rx="12" />
@@ -35,6 +31,6 @@
   <!-- Bubble 5 -->
   <rect class="bubble" x="0" y="217" width="245" height="38" rx="12" />
   <text class="text" x="16" y="241">
-    Check out my <a href="https://azure.github.io/awesome-azd/templates/mohitmohan-innovator/sahaya" class="link">SAHAYA Project</a>
+    Check out my <a href="https://azure.github.io/awesome-azd/templates/mohitmohan-innovator/sahaya" class="link">Awesome-azd Template Contribution </a>
   </text>
 </svg>
