@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./chat.svg" alt="Chat Bio" />
+<img src="./chat.svg" alt="Mohit's Short Bio" />
