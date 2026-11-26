@@ -1,11 +1,11 @@
-<svg width="650" height="310" viewBox="0 0 650 310" fill="none" xmlns="http://w3.org">
+<svg width="650" height="270" viewBox="0 0 650 270" fill="none" xmlns="http://w3.org">
   <style>
     .bubble { fill: #EAECEF; }
     .text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 15px; fill: #24292F; }
     .link { fill: #0969DA; text-decoration: none; }
     .link:hover { text-decoration: underline; }
     
-    /* Optional: Automatically adapt to GitHub Dark Mode */
+    /* Automatically adapt to GitHub Dark Mode */
     @media (prefers-color-scheme: dark) {
       .bubble { fill: #21262D; }
       .text { fill: #C9D1D9; }
@@ -14,27 +14,27 @@
   </style>
 
   <!-- Bubble 1 -->
-  <rect class="bubble" x="0" y="5" width="140" height="38" rx="12" />
-  <text class="text" x="16" y="29">Hi, I am Mohit </text>
+  <rect class="bubble" x="0" y="5" width="135" height="38" rx="12" />
+  <text class="text" x="16" y="29">Hi, I am Mohit</text>
 
   <!-- Bubble 2 (Multi-line) -->
-  <rect class="bubble" x="0" y="53" width="380" height="58" rx="12" />
+  <rect class="bubble" x="0" y="53" width="435" height="58" rx="12" />
   <text class="text" x="16" y="77">Technical Lead &amp; Open Source Contributor</text>
   <text class="text" x="16" y="98">Building tools with Power Platform, AI and Web Technologies</text>
 
   <!-- Bubble 3 -->
-  <rect class="bubble" x="0" y="121" width="320" height="38" rx="12" />
+  <rect class="bubble" x="0" y="121" width="335" height="38" rx="12" />
   <text class="text" x="16" y="145">Always down to collaborate on cool projects</text>
 
   <!-- Bubble 4 (With clickable links) -->
-  <rect class="bubble" x="0" y="169" width="440" height="38" rx="12" />
+  <rect class="bubble" x="0" y="169" width="510" height="38" rx="12" />
   <text class="text" x="16" y="193">
-    Reach out via <a href="mailto:mohit.mohan15@gmail.com" class="link">mohit.mohan15@gmail.com</a> or <a href="https://www.linkedin.com/in/mohitmmenon" class="link">://https://www.linkedin.com/in/mohitmmenon</a>
+    Reach out via <a href="mailto:mohit.mohan15@gmail.com" class="link">mohit.mohan15@gmail.com</a> or <a href="https://www.linkedin.com/in/mohitmmenon" class="link">linkedin.com/in/mohitmmenon</a>
   </text>
 
   <!-- Bubble 5 -->
-  <rect class="bubble" x="0" y="217" width="310" height="38" rx="12" />
+  <rect class="bubble" x="0" y="217" width="245" height="38" rx="12" />
   <text class="text" x="16" y="241">
-    Check out my <a href="https://azure.github.io/awesome-azd/templates/mohitmohan-innovator/sahaya" class="link">Top Repositories</a>
+    Check out my <a href="https://azure.github.io/awesome-azd/templates/mohitmohan-innovator/sahaya" class="link">SAHAYA Project</a>
   </text>
 </svg>
